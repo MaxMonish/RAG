@@ -1,0 +1,8 @@
+
+{
+  "name": "MedGraph RAG Assistant",
+  "description": "A Knowledge Graph-Augmented Retrieval System for Evidence-Based Medical Information, implementing the two-prompt architecture for reduced hallucinations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
